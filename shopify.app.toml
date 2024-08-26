@@ -3,7 +3,7 @@
 client_id = "43ee0f386769c66d5ec8dec7a8e60335"
 name = "testing-react-19"
 handle = "testing-react-19"
-application_url = "https://walt-breakdown-excess-kentucky.trycloudflare.com"
+application_url = "https://void-lips-suse-similar.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://walt-breakdown-excess-kentucky.trycloudflare.com/auth/callback",
-  "https://walt-breakdown-excess-kentucky.trycloudflare.com/auth/shopify/callback",
-  "https://walt-breakdown-excess-kentucky.trycloudflare.com/api/auth/callback"
+  "https://void-lips-suse-similar.trycloudflare.com/auth/callback",
+  "https://void-lips-suse-similar.trycloudflare.com/auth/shopify/callback",
+  "https://void-lips-suse-similar.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
